@@ -1,7 +1,7 @@
 # Bayesian Beta Binomial model
 
 A Python implementation of Bayesian Beta Binomial model.
-Heavy-load computation done with SymPy.
+Non-trivial computation done with SymPy.
 
 The model allows you to generate samples with an underlying Beta Binomial distribution.
 Generated samples have the shape n_samples * r_trials. Each sample has r_trials of Bernoulli(p), where p is drawn from Beta(a,b) distribution. (a,b) are the hyper-parameters of the model.
