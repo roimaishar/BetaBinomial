@@ -1,5 +1,4 @@
-# BetaBinomial
-Bayesian Beta Binomial model
+# Bayesian Beta Binomial model
 
 A Python implementation of Bayesian Beta Binomial model.
 Heavy-load computation done with SymPy.
