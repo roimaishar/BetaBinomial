@@ -1,4 +1,4 @@
-from BetaBinomial import BetaBinomial
+from beta_binomial import BetaBinomial
 
 # create a model
 a = 10
